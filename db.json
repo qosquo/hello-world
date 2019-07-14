@@ -2,10 +2,15 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "time": 1563086183,
+      "content": "Hello world!",
+      "media": null,
+      "userid": 1,
+      "likes": 23
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "John",
+    "surname": "Doe
   }
 }
