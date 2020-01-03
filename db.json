@@ -2,15 +2,126 @@
   "posts": [
     {
       "id": 1,
-      "time": 1563086183,
-      "content": "Hello world!",
-      "media": null,
+      "date": 1563086183,
+      "content": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "attachment": null,
       "userid": 1,
+      "likes": 1
+    },
+    {
+      "id": 2,
+      "date": 1534086183,
+      "content": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
+      "attachment": "https://images.ctfassets.net/zggpk8714k6l/3NjEv8gsCUX9HG4E6C7sOC/b7fe739a9a3515ab4bf1dc645eb48fa6/rome-saint-peters-square-vatican-taste-of-italy-hero.jpg",
+      "userid": 1,
+      "likes": 4
+    },
+    {
+      "id": 3,
+      "date": 1534124183,
+      "content": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut",
+      "attachment": null,
+      "userid": 3,
       "likes": 23
+    },
+    {
+      "id": 4,
+      "date": 1534126112,
+      "content": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque",
+			"attachment": null,
+      "userid": 2,
+      "likes": 5
     }
   ],
-  "profile": {
-    "name": "John",
-    "surname": "Doe"
-  }
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "city": "Gwenborough",
+      "phone": "1-770-736-8031 x56442"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "city": "Wisokyburgh",
+      "phone": "010-692-6593 x09125",
+      "website": "anastasia.net"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "city": "McKenziehaven",
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "city": "South Elvis",
+      "phone": "493-170-9623 x156",
+      "website": "kale.biz"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "city": "Roscoeview",
+      "phone": "(254)954-1289",
+      "website": "demarco.info"
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "username": "Leopoldo_Corkery",
+      "email": "Karley_Dach@jasper.info",
+      "city": "South Christy",
+      "phone": "1-477-935-8478 x6430",
+      "website": "ola.org"
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "Telly.Hoeger@billy.biz",
+      "city": "Howemouth",
+      "phone": "210.067.6132",
+      "website": "elvis.io"
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me",
+      "city": "Aliyaview",
+      "phone": "586.493.6943 x140",
+      "website": "jacynthe.com"
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io",
+      "city": "Bartholomebury",
+      "phone": "(775)976-6794 x41206",
+      "website": "conrad.com"
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "email": "Rey.Padberg@karina.biz",
+      "city": "Lebsackbury",
+      "phone": "024-648-3804",
+      "website": "ambrose.net"
+    }
+  ]
 }
