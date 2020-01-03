@@ -1,3 +1,1 @@
-This is test text file
-Local repository was reset to a one commit behind
-It's from another commit
+hey, this is test text file, which is now modified
