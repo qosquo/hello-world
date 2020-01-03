@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 This is test text file
 Local repository was reset to a one commit behind
 It's from another commit
-=======
-hey, this is test text file, which is now modified
->>>>>>> 085adc0ffcfaf54dcde06be3f36e08d32806c7e3
